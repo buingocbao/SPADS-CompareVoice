@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7549" systemVersion="14D136" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Country" syncable="YES">
+        <attribute name="countryCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="countryName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="ENAlphabet" syncable="YES">
+        <attribute name="a" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="b" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="c" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="d" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="e" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="f" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="g" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="h" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="i" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="j" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="k" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="l" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="m" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="n" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="o" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="q" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="r" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="s" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="t" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="u" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="v" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="w" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="y" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="z" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Country" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="ENAlphabet" positionX="-45" positionY="45" width="128" height="420"/>
+    </elements>
+</model>
